@@ -126,6 +126,7 @@ namespace TopicosEspeciais
 
             Console.WriteLine(d2.ToUniversalTime());
             Console.WriteLine(d3);
+            Console.WriteLine("Bom dia!");
         }
     }
 }
